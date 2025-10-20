@@ -1,0 +1,1 @@
+console.log("Hello Class from an external file!")
