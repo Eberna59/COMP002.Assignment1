@@ -1,3 +1,3 @@
 AUthor: Evan Berna
 
-Purpose:
+Purpose:My first JS assigmnet
